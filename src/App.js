@@ -5,6 +5,7 @@ import Navbar from "./components/Navbar";
 import Header from "./components/Header";
 import AboutMe from "./components/AboutMe";
 import Knowledge from "./components/Knowledge";
+import Experience from "./components/Experience";
 
 function App() {
   return (
@@ -34,6 +35,7 @@ function App() {
       <Header />
       <AboutMe />
       <Knowledge />
+      <Experience />
     </>
   );
 }
