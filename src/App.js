@@ -7,6 +7,7 @@ import AboutMe from "./components/AboutMe";
 import Knowledge from "./components/Knowledge";
 import Experience from "./components/Experience";
 import Portfolio from "./components/Portfolio";
+import ContactMe from "./components/ContactMe";
 
 
 function App() {
@@ -39,6 +40,7 @@ function App() {
       <Knowledge />
       <Experience />
       <Portfolio />
+      <ContactMe />
     </>
   );
 }
