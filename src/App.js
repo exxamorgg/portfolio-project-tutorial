@@ -6,8 +6,9 @@ import Header from "./components/Header";
 import AboutMe from "./components/AboutMe";
 import Knowledge from "./components/Knowledge";
 import Experience from "./components/Experience";
-import Portfolio from "./components/Portfolio";
+// import Portfolio from "./components/Portfolio";
 import ContactMe from "./components/ContactMe";
+import Footer from "./components/Footer";
 
 
 function App() {
@@ -18,17 +19,17 @@ function App() {
       params={{
         particles:{ 
           number:{
-            value: 30,
+            value: 50,
             density:{
               enable: true,
-              value_area: 900
+              value_area: 700
             }
           },
           shape:{
             type: "circle",
             stroke: {
               width: 19,
-              color: "#f9ab00"
+              color: "#ef4035"
             }
           }
         }
@@ -39,8 +40,9 @@ function App() {
       <AboutMe />
       <Knowledge />
       <Experience />
-      <Portfolio />
+      {/* <Portfolio /> */}
       <ContactMe />
+      <Footer />
     </>
   );
 }
