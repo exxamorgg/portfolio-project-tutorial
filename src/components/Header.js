@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <div id="home" className="header-wrapper">
             <div className="main-info">
-                <h1>Test Automation - Web Development</h1>
+                <p>Test Automation & Web Development</p>
                 <Typed className="typed-text"
                 strings={["Manual Testing", "Test Automation", "Desktop App", "Web Development"]}
                 typeSpeed={40}
