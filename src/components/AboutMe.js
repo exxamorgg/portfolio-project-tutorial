@@ -8,7 +8,7 @@ const AboutMe = () => {
       <div className="row">
         <div className="col-lg-6 col-xm-12">
           <div className="photo-wrap mb-3">
-            <img className="profile-img" src={myImage} alt="Profile Image" />
+            <img className="profile-img" src={myImage} alt="doesn't exit" />
           </div>
           <div className="photo-wrap mb-1">
             <p className="photo-info">Mehmet ÖCAL | Software Engineer</p>
@@ -19,6 +19,7 @@ const AboutMe = () => {
               <a
                 href="https://www.linkedin.com/in/mehmet%C3%B6cal/"
                 target="_blank"
+                rel="noreferrer"
               >
                 HERE
               </a>{" "}
@@ -26,7 +27,7 @@ const AboutMe = () => {
             </p>
           </div>
           <div className="photo-wrap mb-5">
-            <img className="linkedin-img" src={myQRCode} alt="Profile Image" />
+            <img className="linkedin-img" src={myQRCode} alt="doesn't exist" />
           </div>
         </div>
         <div className="col-lg-6 col-xm-12 paragraph">

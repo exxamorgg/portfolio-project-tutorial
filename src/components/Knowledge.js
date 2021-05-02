@@ -1,20 +1,12 @@
 import React from "react";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
-  faFacebookF,
-  faGoogle,
   faJava,
 } from "@fortawesome/free-brands-svg-icons";
 import {
-  faCalculator,
   faCode,
   faCogs,
-  faDatabase,
-  faDesktop,
-  faFileCode,
   faTasks,
-  faWarehouse,
-  faWheelchair,
 } from "@fortawesome/free-solid-svg-icons";
 
 const Services = () => {
