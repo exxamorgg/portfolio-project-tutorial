@@ -21,7 +21,7 @@ const Footer = () => {
               <p>Istanbul, Turkey</p>
             </div>
             <div className="d-flex">
-              <a href="#" className="footer-nav">+90(506)484 92 95</a>
+              <a href="https://mehmetocal.netlify.app" className="footer-nav">+90(506)484 92 95</a>
             </div>
             <div className="d-flex">
               <p>ocal.mehmet@outlook.com.tr</p>
