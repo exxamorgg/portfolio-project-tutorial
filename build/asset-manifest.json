@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/portfolio-project-tutorial/static/css/main.c5102a8c.chunk.css",
-    "main.js": "/portfolio-project-tutorial/static/js/main.9ce20a8a.chunk.js",
-    "main.js.map": "/portfolio-project-tutorial/static/js/main.9ce20a8a.chunk.js.map",
+    "main.css": "/portfolio-project-tutorial/static/css/main.c0ed771a.chunk.css",
+    "main.js": "/portfolio-project-tutorial/static/js/main.d66293b3.chunk.js",
+    "main.js.map": "/portfolio-project-tutorial/static/js/main.d66293b3.chunk.js.map",
     "runtime-main.js": "/portfolio-project-tutorial/static/js/runtime-main.5dd99a9c.js",
     "runtime-main.js.map": "/portfolio-project-tutorial/static/js/runtime-main.5dd99a9c.js.map",
     "static/css/2.4c97ca4f.chunk.css": "/portfolio-project-tutorial/static/css/2.4c97ca4f.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.1c9f2d58.chunk.js.map": "/portfolio-project-tutorial/static/js/3.1c9f2d58.chunk.js.map",
     "index.html": "/portfolio-project-tutorial/index.html",
     "static/css/2.4c97ca4f.chunk.css.map": "/portfolio-project-tutorial/static/css/2.4c97ca4f.chunk.css.map",
-    "static/css/main.c5102a8c.chunk.css.map": "/portfolio-project-tutorial/static/css/main.c5102a8c.chunk.css.map",
+    "static/css/main.c0ed771a.chunk.css.map": "/portfolio-project-tutorial/static/css/main.c0ed771a.chunk.css.map",
     "static/js/2.d7991327.chunk.js.LICENSE.txt": "/portfolio-project-tutorial/static/js/2.d7991327.chunk.js.LICENSE.txt",
     "static/media/ben.2a46c4bf.jpg": "/portfolio-project-tutorial/static/media/ben.2a46c4bf.jpg",
     "static/media/coding4.6b213597.png": "/portfolio-project-tutorial/static/media/coding4.6b213597.png",
@@ -23,7 +23,7 @@
     "static/js/runtime-main.5dd99a9c.js",
     "static/css/2.4c97ca4f.chunk.css",
     "static/js/2.d7991327.chunk.js",
-    "static/css/main.c5102a8c.chunk.css",
-    "static/js/main.9ce20a8a.chunk.js"
+    "static/css/main.c0ed771a.chunk.css",
+    "static/js/main.d66293b3.chunk.js"
   ]
 }

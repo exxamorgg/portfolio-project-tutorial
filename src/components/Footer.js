@@ -49,7 +49,7 @@ const Footer = () => {
             <div className="d-flex justify-content-center">
               <FacebookShareButton
                 url={
-                  "https://github.com/MehmetOCAL2347/portfolio-project-tutorial/tree/contacts"
+                  "https://mehmetocal.netlify.app"
                 }
                 quote={"Software Test Engineer"}
                 hashtag="#java"
@@ -59,7 +59,7 @@ const Footer = () => {
 
               <TwitterShareButton
                 url={
-                  "https://github.com/MehmetOCAL2347/portfolio-project-tutorial/tree/contacts"
+                  "https://mehmetocal.netlify.app"
                 }
                 quote={"Software Test Engineer"}
                 hashtag="#java"
@@ -69,7 +69,7 @@ const Footer = () => {
 
               <LinkedinShareButton
                 url={
-                  "https://github.com/MehmetOCAL2347/portfolio-project-tutorial/tree/contacts"
+                  "https://mehmetocal.netlify.app"
                 }
                 quote={"Software Test Engineer"}
                 hashtag="#java"
@@ -79,7 +79,7 @@ const Footer = () => {
 
               <WhatsappShareButton
                 url={
-                  "https://github.com/MehmetOCAL2347/portfolio-project-tutorial/tree/contacts"
+                  "https://mehmetocal.netlify.app"
                 }
                 quote={"Software Test Engineer"}
                 hashtag="#java"

@@ -75,7 +75,7 @@ nav ul li {
 
 .header-wrapper {
     position: relative;
-    background: url(/Users/magistechnology/portfolio/src/techy.jpeg) no-repeat;
+    background: url(techy.jpeg) no-repeat;
     background-size: cover;
     background-position: center;
     height: 100vh;
