@@ -1,5 +1,5 @@
 import './App.css';
-import '/Users/magistechnology/portfolio/node_modules/bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/css/bootstrap.min.css';
 import Particals from "react-particles-js";
 import Navbar from "./components/Navbar";
 import Header from "./components/Header";
