@@ -70,10 +70,17 @@ const Experience = () => {
               degree. I was interested in development and testing in my school
               life. I studied on LIDAR and making location accurance tests by
               using Android app. To calculate accurance ratio and reports bug.
+              You can check my CV{" "}
+              <a
+                href="https://www.keepandshare.com/doc14/28376/mehmet-cal-cv-pdf-191k?da=y"
+                target="_blank"
+                rel="noreferrer"
+              >
+                HERE.
+              </a>
             </p>
           </div>
         </div>
-        {/* - */}
       </div>
     </div>
   );
