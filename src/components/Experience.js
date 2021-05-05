@@ -72,7 +72,7 @@ const Experience = () => {
               using Android app. To calculate accurance ratio and reports bug.
               You can check my CV{" "}
               <a
-                href="https://www.keepandshare.com/doc14/28376/mehmet-cal-cv-pdf-191k?da=y"
+                href="https://www.keepandshare.com/doc14/28406/mehmet-cal-cv-pdf-181k?dn=y&dnad=y"
                 target="_blank"
                 rel="noreferrer"
               >
